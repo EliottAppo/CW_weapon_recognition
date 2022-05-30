@@ -45,3 +45,6 @@ Lancer la fonction main et donner le chemin de votre fichier
 * Elian Mangin
 * Augustin Pagniez
 * Luc Bernard
+* 
+## Remarque 
+La base de données utilisé pour l'entrainement est disponible en envoyant un mail à eliott.dumont@student-cs.fr
